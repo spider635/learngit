@@ -11,3 +11,4 @@ This is from master.
 This is from master.
 Git is a tool and easy to use.
 Creating a new branch is quick and simple. This is from master and feature2.
+I am from branch dev.
